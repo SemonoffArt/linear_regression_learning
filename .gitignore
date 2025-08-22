@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+prediction_results.xlsx
+*.pkl
+feders_weight_with_moving_averages.xlsx
+
 # C extensions
 *.so
 
